@@ -6,8 +6,7 @@ The approximation is not close enough to be used in already trained models. The 
 
 The first derivate of the polynomial gelu is continuous, while the second derivate has small jumps at the two border positions where we switch the polynomials.
 
-
-![image](https://github.com/user-attachments/assets/69413063-1d83-4f0d-b603-91756dc19e7f)
+![image](https://github.com/user-attachments/assets/3b813fc0-0e18-4299-bb85-341d2a7f5a1c)
 
 See also:
 
